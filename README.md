@@ -4,7 +4,7 @@ The proyect can be found at: https://studio.penguinmod.com/#4523582460
 If you will use the HTML, rename it to "index.html"
 HTML packaged by Penguinmod packager (https://studio.penguinmod.com/PenguinMod-Packager )
 Uses the OpenSource Ace Editor
-The proyect uses the following extensions: (the custom or homemade ones will be added into "CustomExts" folder)
+The proyect uses the following extensions: (the custom or homemade ones will be added into "CustomExts" tree)
 Custom Sytles
 JavaScript V2
 Sensing Expansion
